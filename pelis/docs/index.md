@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# Peliculas Netflix 2021
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+En un año marcado por el coronavirus y la pandemia apenas hemos podido hacer una de las cosas que más nos gusta: ir al cine. Entrar en una sala y disfrutar de una película en 2021 se ha convertido en algo casi imposible por las medidas de restricción tomadas, con muchos cines cerrados o por la decisión de muchas distribuidoras de no estrenar las películas hasta que la situación mejorara y no hubiera tanta limitación de aforos.
 
-## Commands
+## Peliculas
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+*   The Binding.
+*   El Olvido que seremos.
+*   El padre.
+*   Intuition.
+*   El Practicante.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
